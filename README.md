@@ -6,8 +6,8 @@ This is the code for the Ethereum ERC20 SmartContract for the BuzzShow GLDY Toke
 
 The contract is built upon OpenZeppelin library using Truffle Suite Framework.
 
-https://github.com/OpenZeppelin/openzeppelin-solidity
-https://github.com/trufflesuite/truffle
+[OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
+[TruffleSuite](https://github.com/trufflesuite/truffle)
 
 ## Explore the Contract 
 [View on etherscan.io](https://etherscan.io/address/0x594207c791afd06a8d087d84d99d1da53ccbd45f#readContract)
