@@ -2,7 +2,12 @@
 
 BuzzShow GLDY Token Smartcontract
 
-This is the code for the Ethereum smartcontract for the BuzzShow GLDY Token.
+This is the code for the Ethereum SmartContract for the BuzzShow GLDY Token.
+
+The contract is built upon OpenZeppelin library using Truffle Suite Framework.
+
+https://github.com/OpenZeppelin/openzeppelin-solidity
+https://github.com/trufflesuite/truffle
 
 ## Explore the Contract 
 [View on etherscan.io](https://etherscan.io/address/0x594207c791afd06a8d087d84d99d1da53ccbd45f#readContract)
