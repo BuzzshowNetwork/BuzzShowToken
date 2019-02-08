@@ -1,8 +1,8 @@
 # BuzzShowToken
 
-BuzzShow GLDY Token Smartcontract
+BuzzShow GLDY Token Smart Contract
 
-This is the code for the Ethereum ERC20 SmartContract for the BuzzShow GLDY Token.
+This is the code for the Ethereum ERC20 Smart Contract for the BuzzShow GLDY Token.
 
 The contract is built on top of OpenZeppelin smart contracts library using Truffle Suite Framework.
 
